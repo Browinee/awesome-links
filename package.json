@@ -9,6 +9,7 @@
     "seed": "ts-node  prisma/seed.ts"
   },
   "dependencies": {
+    "@apollo/client": "^3.4.16",
     "@prisma/client": "^3.3.0",
     "@types/micro-cors": "^0.1.2",
     "apollo-server": "^3.4.0",
